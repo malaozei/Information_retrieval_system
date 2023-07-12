@@ -32,3 +32,6 @@
 ![image](https://github.com/malaozei/Information_retrieval_system/assets/94264539/1b83dbdb-a1b6-4516-8510-926509e70f16)
 
    
+# 使用方法：
+先用crawl.py文件爬取网页，再用get_inverindex.py获取倒排索引表，随后可以用work.py进行工作。
+环境配置的要求在实验报告中进行了详细说明，更多说明见实验报告。
